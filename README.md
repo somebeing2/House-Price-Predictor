@@ -4,7 +4,7 @@
 
 Unlike static Jupyter Notebooks, this project deploys a **Linear Regression model** into a live, user-friendly interface, allowing users to tweak input parameters and see instant price predictions along with the model's accuracy metrics.
 
- **Live Demo:** []
+ **Live Demo:** [https://house-price-predictor-d235puue4xxatph2r25hdj.streamlit.app/]
 
 ---
 
